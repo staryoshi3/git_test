@@ -1,0 +1,1 @@
+This is staryoshi3's first git project!
